@@ -1,0 +1,8 @@
+{
+    "host": "localhost:6379",
+    "pwd": "",
+    "db": 1,
+    "channel": "file-notify",
+    "source": "source/",
+    "file": "file/"
+}
